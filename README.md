@@ -26,16 +26,5 @@
 </div>
 
 
-### :woman_technologist: About Me :
-- :telescope: I’m Studying as a Data & AI .
-
-- 🧠 I'm  a memory coach ( 3rd place in the world memory championships )
-
-- :zap: I help people to Increase their memory with easy and fun techniques.
-
-- :seedling: Exploring Technical Content Writing.
 
 
-
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouacem/)
